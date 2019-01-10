@@ -423,7 +423,7 @@ void Elwin::setDefaultSampleLog(Mantid::API::MatrixWorkspace_const_sptr ws) {
 /**
  * Handles a new set of input files being entered.
  *
- * Updates preview seletcion combo box.
+ * Updates preview selection combo box.
  */
 void Elwin::newInputFiles() {
   // Clear the existing list of files
