@@ -57,6 +57,7 @@ Data reduction
 	- This will run for some time, probably minutes
 #. In the ``Sum Runs`` tab
 		- Enter ``74044, 74019`` in the top line
+        - Click ``Add`` at the side
 		- Enter ``LOQ74044-add`` as Output file
 		- Ensure that the ``Output directory`` is in you r managed paths
 		- Click ``Sum`` at the bottom
